@@ -29,11 +29,11 @@ Please list the names of the facilities that do. */
 
 select facid,name,membercost
 from Facilities
-where membercost=0
+where membercost>0
 
 /* Q2: How many facilities do not charge a fee to members? */
 
-select count(name)
+select count(distinct (name))
 from Facilities
 where membercost=0
 
