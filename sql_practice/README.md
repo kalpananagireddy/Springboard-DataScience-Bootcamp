@@ -1,4 +1,4 @@
-This exercise explores three datasets:
+This exercise uses SQL to explore three datasets:
 
 Facilities --contains the facility information, including facility identification,
 cost to rent the facility for non_member and members.
