@@ -13,7 +13,7 @@ This repository contains all the data and ipython notebooks for all the springbo
     - [racial discrimination in job market analysis](https://github.com/phoenixdeng2012/Springboard-DataScience-Bootcamp/blob/master/EDA_racial_discrimination/sliderule_dsi_inferential_statistics_exercise_2.ipynb)
     - [hospital readmission analysis and policy recommendation](https://github.com/phoenixdeng2012/Springboard-DataScience-Bootcamp/blob/master/hospital_readmit/sliderule_dsi_inferential_statistics_exercise_3.ipynb)
     
-   - Machine Learning 
+  - Machine Learning
    
     - Supervised learning:
     Linear Regression, Logistic Regression,SVM, KNN, Decision Tree, Random Forest, Boosting, Ensemble are covered in the course material
