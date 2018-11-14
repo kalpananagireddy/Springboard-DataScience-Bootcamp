@@ -27,9 +27,16 @@ This repository contains all the data and ipython notebooks for all the springbo
      
       - [Customer Segmentation Using Clustering](https://github.com/phoenixdeng2012/Springboard-DataScience-Bootcamp/blob/master/clustering/Mini_Project_Clustering.ipynb)
       
-    - First Capstone Project
+   - First Capstone Project
     
       - [Youtube Comments Spam Filter](https://github.com/phoenixdeng2012/Springboard-DataScience-Bootcamp/tree/master/spam_filter_proj)
+      
+   - Deep learning:
+   CNN, RNN is introduced in this module. 
+  
+   
+   
+     
     
       
     
