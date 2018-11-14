@@ -6,6 +6,7 @@ This repository contains all the data and ipython notebooks for all the springbo
   
     - [work with Json: explore word bank data](https://github.com/phoenixdeng2012/Springboard-DataScience-Bootcamp/blob/master/data_wrangling_json/sliderule_dsi_json_exercise.ipynb)
     - [work with API: explore stock price](https://github.com/phoenixdeng2012/Springboard-DataScience-Bootcamp/blob/master/API/api_data_wrangling_mini_project.ipynb)
+    - [SQL](https://github.com/phoenixdeng2012/Springboard-DataScience-Bootcamp/blob/master/sql_practice/1520094343_sql_project.sql)
     
   - Exploratory Data Analysis - hypothesis testing, confidence intervals, and statistical significance.
   
