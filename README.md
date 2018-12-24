@@ -35,8 +35,14 @@ This repository contains all the data and ipython notebooks for all the springbo
    - Deep learning:
    Neuro network, backpropagation, CNN, RNN, transfer learning is introduced in this module. 
   
-   
-   
+	- [Handwriting Recognition with CNN](https://github.com/phoenixdeng2012/Springboard-DataScience-Bootcamp/blob/master/deep_learning/Handwriting%20Recognition%20with%20CNN.ipynb)
+	- [Handwriting Recognition with Keras using Fully connected Neuronetwork](https://github.com/phoenixdeng2012/Springboard-DataScience-Bootcamp/blob/master/deep_learning/Handwriting%20Recognition%20with%20Keras.ipynb)
+	- [Predict Political Parties Of Politicians with Keras](https://github.com/phoenixdeng2012/Springboard-DataScience-Bootcamp/blob/master/deep_learning/Predict%20Political%20Parties%20Of%20Politicians%20with%20Keras.ipynb)
+	- [Movie Reviews Sentiment Analysis using RNN](https://github.com/phoenixdeng2012/Springboard-DataScience-Bootcamp/blob/master/deep_learning/Sentiment_Analysis_of_Movie_Reviews_using_RNN.ipynb)
+
+    - Spark 
+	- [Spark DF, SQL and ML Exercise](https://github.com/phoenixdeng2012/Springboard-DataScience-Bootcamp/blob/master/spark/Spark%20DF%2C%20SQL%2C%20ML%20Exercise.ipynb)
+
      
     
       
