@@ -40,7 +40,8 @@ This repository contains all the data and ipython notebooks for all the springbo
 	- [Movie Reviews Sentiment Analysis using RNN](https://github.com/phoenixdeng2012/Springboard-DataScience-Bootcamp/blob/master/deep_learning/Sentiment_Analysis_of_Movie_Reviews_using_RNN.ipynb)
 
    - Spark 
-	- [Spark DF, SQL and ML Exercise](https://github.com/phoenixdeng2012/Springboard-DataScience-Bootcamp/blob/master/spark/Spark%20DF%2C%20SQL%2C%20ML%20Exercise.ipynb)
+   
+     - [Spark DF, SQL and ML Exercise](https://github.com/phoenixdeng2012/Springboard-DataScience-Bootcamp/blob/master/spark/Spark%20DF%2C%20SQL%2C%20ML%20Exercise.ipynb)
 
      
     
