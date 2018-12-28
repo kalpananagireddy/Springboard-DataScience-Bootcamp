@@ -10,9 +10,10 @@
 
 **Modeling approach:** Following machine learning models are used:
  
-*Logistic regression
-*K-nearest neighbors
-*Naive Bayes
+	*Logistic regression
+	*Random Forest
+	*Naive Bayes
+	*SVM
 
 
 
