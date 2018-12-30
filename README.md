@@ -13,6 +13,7 @@ This repository contains all the data and ipython notebooks for all the springbo
     - [human body temperature analysis](https://github.com/phoenixdeng2012/Springboard-DataScience-Bootcamp/blob/master/EDA_human_temperature/sliderule_dsi_inferential_statistics_exercise_1.ipynb)
     - [racial discrimination in job market analysis](https://github.com/phoenixdeng2012/Springboard-DataScience-Bootcamp/blob/master/EDA_racial_discrimination/sliderule_dsi_inferential_statistics_exercise_2.ipynb)
     - [hospital readmission analysis and policy recommendation](https://github.com/phoenixdeng2012/Springboard-DataScience-Bootcamp/blob/master/hospital_readmit/sliderule_dsi_inferential_statistics_exercise_3.ipynb)
+    - [Mobile Games A/B Testing with Cookie Cats](https://github.com/phoenixdeng2012/Springboard-DataScience-Bootcamp/tree/master/Mobile%20Games%20A/B%20Testing%20with%20Cookie%20Cats)
     
   - Machine Learning
    
