@@ -14,7 +14,8 @@
 	*Random Forest
 	*Naive Bayes
 	*SVM
-
+**Report:** [Spam Filter Report] (https://github.com/phoenixdeng2012/Springboard-DataScience-Bootcamp/blob/master/spam_filter_proj/Spam_filter_for_Youtube.pdf)
+**Code:** [Jupyter Notebook for Spam Filter] (https://github.com/phoenixdeng2012/Springboard-DataScience-Bootcamp/blob/master/spam_filter_proj/Spam_filter_version2_ROC.ipynb)
 
 
     
